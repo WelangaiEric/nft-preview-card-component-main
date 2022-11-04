@@ -141,4 +141,8 @@ p{
     color: hsl(178, 100%, 50%);
     cursor: pointer;
 }
-
+@media screen and (max-width:768px){
+    .hover-image{
+        display:none;
+    }
+}
